@@ -1,0 +1,8 @@
+C:\Users\jdyson\source\repos\Colligo\Colligo\bin\Debug\netcoreapp2.0\Colligo.deps.json
+C:\Users\jdyson\source\repos\Colligo\Colligo\bin\Debug\netcoreapp2.0\Colligo.runtimeconfig.json
+C:\Users\jdyson\source\repos\Colligo\Colligo\bin\Debug\netcoreapp2.0\Colligo.runtimeconfig.dev.json
+C:\Users\jdyson\source\repos\Colligo\Colligo\bin\Debug\netcoreapp2.0\Colligo.dll
+C:\Users\jdyson\source\repos\Colligo\Colligo\obj\Debug\netcoreapp2.0\Colligo.csprojAssemblyReference.cache
+C:\Users\jdyson\source\repos\Colligo\Colligo\obj\Debug\netcoreapp2.0\Colligo.csproj.CoreCompileInputs.cache
+C:\Users\jdyson\source\repos\Colligo\Colligo\obj\Debug\netcoreapp2.0\Colligo.AssemblyInfoInputs.cache
+C:\Users\jdyson\source\repos\Colligo\Colligo\obj\Debug\netcoreapp2.0\Colligo.AssemblyInfo.cs
